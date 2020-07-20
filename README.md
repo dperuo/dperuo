@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Please see my [handbook](https://handbook.derekperuo.net/) to learn more about who I am and how I like to work.
+
 <!--
 **dperuo/dperuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
