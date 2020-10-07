@@ -32,3 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dperuo&show_icons=true" alt="dperuo" /></p>
 
+---
+
+<small>Generated with https://rahuldkjain.github.io/gh-profile-readme-generator/</small>
