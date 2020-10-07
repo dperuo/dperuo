@@ -19,7 +19,6 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://codepen.io/dperuo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dperuo" height="30" width="40" /></a>
 <a href="https://twitter.com/derekperuo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="derekperuo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/derekperuo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="derekperuo" height="30" width="40" /></a>
 <a href="https://fb.com/derekperuo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="derekperuo" height="30" width="40" /></a>
