@@ -1,21 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Derek Peruo</h1>
-<h3 align="center">Software Developer, Business Owner, Cash Flow Investor</h3>
+![banner](assets/banner.jpg)
 
-_If your mobile app needs to make $6m+ next year and you're ready to invest $60k+ to make that happen, contact me now!_
+# Hi there! :wave:
 
-Skills: [so many!](https://playbook.derekperuo.net/resources/skills)
+I'm Derek Peruo. I'm the author of 5 LinkedIn Learning courses like [_Angular: Testing and Debugging_](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318) and [_Angular: Ecosystems_](https://www.linkedin.com/learning/angular-ecosystems).
 
-- 🔭 I’m currently working on **Ionic apps**
-- 🌱 I’m currently learning **Functional Programming**
-- 🤔 I’m looking for help with [**Appsweet.co**](https://github.com/appsweet-co)
-- 💬 Ask me about **HTML, CSS and TypeScript**
-- 📫 How to reach me: **http://a6t.co**
-- ⚡ Fun fact: **I also own a real estate investment company!**
+I was born and raised in New York City during the height of the “Silicon Alley” tech boom. My lifelong connection to New York City shaped how I solve large-scale challenges like performance, scaling, automation, and deployment.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/dperuo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/public-profile/in/derekperuo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/dperuo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.a6t.co)  
+Fortune 500 and Forbes Global 2000 companies like Pfizer and Thomson Reuters are making up to $536 million* over the next year with the help of my easy-to-use software solutions. These solutions were built up from over 12 years of real-world wins with teams, product owners, and clients like you.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+I have a lot of contract negotiation experience working with clients and vendors. I studied many negotiation techniques, including strategies taught at the University of Michigan Law School and the FBI Crisis Negotiation Unit.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dperuo&layout=compact" alt="dperuo" />
+My BFA in theater and performance gives me expert-level communication skills and makes my the ideal bridge between technical and non-technical team members.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dperuo&show_icons=true" alt="dperuo" />
+I'm also a cash flow investor and a student of the FortuneBuilders Mastery Coaching Program.
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dperuo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
