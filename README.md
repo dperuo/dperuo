@@ -60,7 +60,7 @@ Share knowledge quickly. Have a single "Source of Truth" for what to do and how 
 
 ### Kill Sacred Cows
 
-There is no [sacred cows](https://en.wikipedia.org/wiki/Sacred_cow_(idiom)) here. Start from [First Principles](https://en.wikipedia.org/wiki/First_principle) and try everything. Keep what works, discard the rest.
+There are no [sacred cows](https://en.wikipedia.org/wiki/Sacred_cow_(idiom)) here. Start from [First Principles](https://en.wikipedia.org/wiki/First_principle) and try everything. Keep what works, discard the rest.
 
 ## Work Hours
 
