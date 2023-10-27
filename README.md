@@ -70,11 +70,15 @@ My focus is on the [value](#maximize-roi) we bring to our clients and customers.
 
 ### Make Team Communication Easy
 
-Be clear with your team about when you're working and coordinate as needed. Use the tools we have and keep communication asynchronous.
+Be clear with your team about what you're working on and where you're blocked. Use the tools we have to keep communication easy and open.
 
 ### Shift Your Workday as Needed
 
-We want high-quality work at all times and this won’t happen if you're burnt out. Shift your workday and take time off as needed. But please make sure there is no impact on the needs of your teams, your projects, or the quality of your results.
+We want high-quality work at all times, and this won’t happen if you're burnt out. Shift your workday and take time off as needed.
+
+### All Meetings Are Optional
+
+Opt out of any meeting, at any time, for any reason. You get to decide if a meeting is the best use of your time.
 
 ### Don’t Work on Vacation
 
