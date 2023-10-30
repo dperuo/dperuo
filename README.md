@@ -62,6 +62,10 @@ Share knowledge quickly. Have a single "Source of Truth" for what to do and how 
 
 There are no [sacred cows](https://en.wikipedia.org/wiki/Sacred_cow_(idiom)) here. Start from [First Principles](https://en.wikipedia.org/wiki/First_principle) and try everything. Keep what works, discard the rest.
 
+### All Meetings Are Optional
+
+Opt out of any meeting, at any time, for any reason. You get to decide if a meeting is the best use of your time.
+
 ## Work Hours
 
 ### I Don’t Track How You Work
@@ -75,10 +79,6 @@ Be clear with your team about what you're working on and where you're blocked. U
 ### Shift Your Workday as Needed
 
 We want high-quality work at all times, and this won’t happen if you're burnt out. Shift your workday and take time off as needed.
-
-### All Meetings Are Optional
-
-Opt out of any meeting, at any time, for any reason. You get to decide if a meeting is the best use of your time.
 
 ### Don’t Work on Vacation
 
