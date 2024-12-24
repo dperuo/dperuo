@@ -70,7 +70,7 @@ Opt out of any meeting, at any time, for any reason. You get to decide if a meet
 
 ### I Don’t Track How You Work
 
-My focus is on the [value](#maximize-roi) we bring to our clients and customers. If you can do that in 24 minutes while sitting on a park bench in Zurich, then do it!
+I focus on the [value](#maximize-roi) we bring to our clients and customers, not how many hours you work or how fast you respond to messages. If you can deliver value in 18 minutes while sitting on a park bench in Zurich, then do it!
 
 ### Make Team Communication Easy
 
