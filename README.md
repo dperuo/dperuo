@@ -50,7 +50,7 @@ Focus on value. Care more about Outputs than Inputs. Leverage your resources. Us
 
 Perfection takes too long. Iterate often. Keep the [feedback loop](https://en.wikipedia.org/wiki/OODA_loop) as short as possible. [Disagree and commit](https://www.amazon.jobs/principles) when needed.
 
-### Use the Best Tool for the Job {#tool}
+### Use the Best Tool for the Job {#best-tool}
 
 Don’t put [square pegs in round holes](https://en.wikipedia.org/wiki/Square_peg_in_a_round_hole). Use the best tool for the job.
 
@@ -66,7 +66,7 @@ There are no [sacred cows](https://en.wikipedia.org/wiki/Sacred_cow_(idiom)) her
 
 Opt out of any meeting, at any time, for any reason. You get to decide if a meeting is the best use of your time.
 
-## Work Hours {#hours}
+## Work Hours {#work-hours}
 
 ### I Don’t Track How You Work {#tracking}
 
