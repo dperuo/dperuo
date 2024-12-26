@@ -36,7 +36,7 @@ Empower others to reach their goals. Spread knowledge fast. Teach others what yo
 
 Act with kindness and love. Find the joy. Leave people with happy memories.
 
-## My Style #{style}
+## My Style {#style}
 
 ### Put the Bottom Line Up Front {#bluf}
 
