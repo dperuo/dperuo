@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Logo" width="250" height="auto" />
-</p>
-
-<h1 align="center">Personal Handbook</h1>
+<h1 align="center">Derek Peruo<br/>Personal Handbook</h1>
 
 <p align="center">
   <b>Who I am • What I value • How I like to work</b>
