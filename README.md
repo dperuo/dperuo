@@ -66,7 +66,7 @@ Opt out of any meeting, at any time, for any reason. You get to decide if a meet
 
 ### I Don’t Track How You Work {#tracking}
 
-I focus on the [value](#maximize-roi) we bring to our clients and customers, not how many hours you work or how fast you respond to messages. If you can deliver value in 18 minutes while sitting on a park bench in Zurich, then do it!
+I focus on the [value](#roi) we bring to our clients and customers, not how many hours you work or how fast you respond to messages. If you can deliver value in 18 minutes while sitting on a park bench in Zurich, then do it!
 
 ### Make Team Communication Easy {#comms}
 
@@ -80,20 +80,6 @@ We want high-quality work at all times, and this won’t happen if you're burnt 
 
 Please don't work when you're on vacation. Take care of yourself and your family. Get some sleep. Eat well. Visit nature and unplug. Work hard when it’s time to work and enjoy the time off when you have time off. This is both healthy for you and keeps scheduling clear and clean with the team.
 
-## About Me {#about}
-
-Hi there, welcome to my handbook! :wave:
+## Acknowledgements {#thank-you}
 
 This document details who I am, what I value, and how I like to work. Hat tip to [Leah Fessler](https://qz.com/1046131/writing-a-user-manual-at-work-makes-teams-less-anxious-and-more-productive/) and [Abby Falik](https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik) for the idea.
-
-I'm the author of 5 LinkedIn Learning courses like [_Angular: Testing and Debugging_](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318) and [_Angular: Ecosystems_](https://www.linkedin.com/learning/angular-ecosystems).
-
-I was born and raised in New York City during the height of the “Silicon Alley” tech boom. My lifelong connection to New York City shaped how I solve large-scale challenges like performance, scaling, automation, and deployment.
-
-Fortune 500 and Forbes Global 2000 companies like Pfizer and Thomson Reuters are making up to $536 million* over the next year with the help of my easy-to-use software solutions. These solutions were built up from over 12 years of real-world wins with teams, product owners, and clients like you.
-
-I have a lot of contract negotiation experience working with clients and vendors. I studied many negotiation techniques, including strategies taught at the University of Michigan Law School and the FBI Crisis Negotiation Unit.
-
-My BFA in theater and performance gives me expert-level communication skills and makes my the ideal bridge between technical and non-technical team members.
-
-I'm also a real estate investor and a student of the FortuneBuilders Mastery Coaching Program.
